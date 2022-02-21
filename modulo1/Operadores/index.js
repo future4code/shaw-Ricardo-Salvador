@@ -99,28 +99,28 @@
 // /* EXERCICIO 4. Faça um programa que pergunte ao usuário dois números. 
 // Em seguida, faça as operações e imprima no console as seguintes mensagens seguidas pelo true ou false: */
 
-        let primeiroNumero = prompt("Me diga um numero de 20 a 30")
-        let segundoNumero = prompt("Me diga agora um numero de 1 a 10")
-        Number(primeiroNumero)
-        Number(segundoNumero)
+//         let primeiroNumero = prompt("Me diga um numero de 20 a 30")
+//         let segundoNumero = prompt("Me diga agora um numero de 1 a 10")
+//         Number(primeiroNumero)
+//         Number(segundoNumero)
 
-// O primeiro numero é maior que segundo? 
-    let resultado1 = primeiroNumero > segundoNumero
-    console.log("O primeiro numero é maior que segundo?", resultado1)
+// // O primeiro numero é maior que segundo? 
+//     let resultado1 = primeiroNumero > segundoNumero
+//     console.log("O primeiro numero é maior que segundo?", resultado1)
 
-// O primeiro numero é igual ao segundo? 
-    let resultado2 = primeiroNumero === segundoNumero
-    console.log("O primeiro numero é igual ao segundo?", resultado2)
+// // O primeiro numero é igual ao segundo? 
+//     let resultado2 = primeiroNumero === segundoNumero
+//     console.log("O primeiro numero é igual ao segundo?", resultado2)
 
-// O primeiro numero é divisível pelo segundo?
-    let primeiraDivisao = primeiroNumero % segundoNumero
-    let resultado3 = primeiraDivisao === 0 
-    console.log("O primeiro numero é divisível pelo segundo?", resultado3)
+// // O primeiro numero é divisível pelo segundo?
+//     let primeiraDivisao = primeiroNumero % segundoNumero
+//     let resultado3 = primeiraDivisao === 0 
+//     console.log("O primeiro numero é divisível pelo segundo?", resultado3)
 
-// O segundo numero é divisível pelo primeiro? 
-    let segundaDivisao = segundoNumero % primeiroNumero
-    let resultado4 = segundaDivisao === 0
-    console.log("O segundo numero é divisível pelo primeiro?", resultado4)
+// // O segundo numero é divisível pelo primeiro? 
+//     let segundaDivisao = segundoNumero % primeiroNumero
+//     let resultado4 = segundaDivisao === 0
+//     console.log("O segundo numero é divisível pelo primeiro?", resultado4)
 
 
 // obs: O true ou false vai depender dos números inseridos e do resultado das operações.

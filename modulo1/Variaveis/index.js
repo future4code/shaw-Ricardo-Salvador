@@ -89,7 +89,8 @@ let b = 25
 let x 
 x = a
 a = b
-b =
+b = x
+
 
 // Depois de trocados, teremos o seguinte resultado:
 console.log("O novo valor de a é", a) // O novo valor de a é 25
