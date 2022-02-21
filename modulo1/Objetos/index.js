@@ -130,7 +130,7 @@
 //        profissao: "instrutor"
 //    }     
 
-//    const novoUsuario = {
+//    const usuario2 = {
 //         nome: 'Ricardo', 
 //         idade: 28,
 //         profissao: "desenvolvedor" 
@@ -148,11 +148,11 @@
 //     }
 
 //     console.log(minhaFuncao(usuario))
-
+//     console.log(minhaFuncao(usuario2))
 
 // EXERCICIO 3 . 
 
-// A.
+// // A.
     let carrinho = []
 
 // B. 
