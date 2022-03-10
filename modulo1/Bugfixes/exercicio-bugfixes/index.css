@@ -74,9 +74,6 @@ div img {
     padding:  150px 550px;   
 }
 
-/* #container-de-descricao>p{
-    
-} */
 
 #container-de-descricao>ol {
     padding: 15px 0px;
@@ -138,5 +135,14 @@ td button {
 }
 
 img{
-    width: 50px;
+    color: white;
+}
+
+.imgTabela{
+    margin: auto auto;
+}
+
+table.tr.calcajeans{
+    background-color: white;
+    width: 1000px;
 }
